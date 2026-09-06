@@ -2,6 +2,12 @@
 
 A multi-agent competitor-research system for PMs, strategy teams, consultants, and founders. It discovers a target company's top competitors, gathers current web and news evidence in parallel, extracts decision-useful intelligence, quality-checks the evidence, and produces a cited briefing in a Streamlit web app.
 
+## Product goal
+
+This agent helps **product managers** perform competitive intelligence, client research, market monitoring, and industry tracking in a web app, replacing hours of manual research. It autonomously searches across multiple sources, evaluates the evidence, and hands off an actionable briefing to the PM.
+
+The product succeeds when a PM can produce usable research in **under 30 minutes** that they would confidently send to their team **at least 8 times out of 10**.
+
 The default use case is **NVIDIA / AI Chips / top 3 competitors**, but the target, category, geography, audience, and research questions are configurable.
 
 For a zero-cost project review, click **Load project-review demo** in the sidebar. It immediately displays a prepared NVIDIA briefing and exercises the report layout, citations, action plan, cost panel, and Markdown/JSON downloads without calling You.com or OpenAI. The demo is clearly labeled so it cannot be mistaken for a fresh research run.
